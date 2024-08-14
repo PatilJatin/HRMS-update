@@ -1,0 +1,55 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2024-08-05 08:41:17.201366",
+ "default_view": "List",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "course_name",
+  "certificate",
+  "duration",
+  "completed_date"
+ ],
+ "fields": [
+  {
+   "fieldname": "course_name",
+   "fieldtype": "Small Text",
+   "in_list_view": 1,
+   "label": "Course name",
+   "reqd": 1
+  },
+  {
+   "fieldname": "certificate",
+   "fieldtype": "Attach",
+   "in_list_view": 1,
+   "label": "Certificate",
+   "reqd": 1
+  },
+  {
+   "fieldname": "duration",
+   "fieldtype": "Duration",
+   "in_list_view": 1,
+   "label": "Duration",
+   "reqd": 1
+  },
+  {
+   "fieldname": "completed_date",
+   "fieldtype": "Date",
+   "label": "Completed date"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2024-08-05 08:41:17.201366",
+ "modified_by": "Administrator",
+ "module": "HR",
+ "name": "Relevant course",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
