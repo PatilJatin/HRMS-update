@@ -1,0 +1,95 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"ddFbDvS3XH\",\"type\":\"header\",\"data\":{\"text\":\"<span style=\\\"font-size: 18px;\\\">Your Shortcuts</span>\",\"col\":12}},{\"id\":\"wYsRKwnnIA\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Survey\",\"col\":3}},{\"id\":\"nmvXFwriRn\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Responses\",\"col\":3}},{\"id\":\"XUM2GOWLyF\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"rzkppuf7KH\",\"type\":\"card\",\"data\":{\"card_name\":\"Surveys\",\"col\":4}}]",
+ "creation": "2024-08-16 00:26:22.333401",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "share",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Surveys",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Survey",
+   "link_count": 0,
+   "link_to": "Survey",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Responses",
+   "link_count": 0,
+   "link_to": "Response",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Surveys",
+   "link_count": 2,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Survey",
+   "link_count": 0,
+   "link_to": "Survey",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Responses",
+   "link_count": 0,
+   "link_to": "Response",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2024-08-16 00:47:30.155495",
+ "modified_by": "Administrator",
+ "module": "Survey",
+ "name": "Surveys",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 20.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Survey",
+   "link_to": "Survey",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Responses",
+   "link_to": "Response",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Surveys"
+}
